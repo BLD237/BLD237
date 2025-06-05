@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BLD237
+- 👋 Hi, I’m Mufor Belmond
 - 👀 I’m interested in Software development Data science and machine learning 
 - 🌱 I’m currently learning Machine learning algorithms, mobile developemnt with flutter and backend developement with python and PHP
 - 💞️ I’m looking to collaborate on software developemt projects, machine learning projects.
