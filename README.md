@@ -4,7 +4,7 @@
 - 👀 Passionate about **Software Development, Data Science, and Machine Learning**  
 - 🌱 Currently learning and building with:  
   - 🤖 **Machine Learning & Deep Learning** (TensorFlow, Computer Vision, NLP, AI Agents)  
-  - 📱 **Mobile Development with Flutter** (complex booking systems, chat apps, games)  
+  - 📱 **Mobile Development with Flutter** (chat apps,Task management, games)  
   - 🖥 **Backend Development** with Python (**FastAPI, Django, Flask**) & **PHP**  
   - ⚡ **Full-stack systems** (authentication, dashboards, APIs, databases)  
 - 💞️ Open to collaborate on **ML/AI solutions, app development, and full-stack projects**  
@@ -34,13 +34,14 @@
 ## 📌 Featured Projects  
 - 🧠 **AI & Machine Learning**:  
   - Blight detection with TensorFlow + semantic segmentation  
-  - Eye detector (TensorFlow + OpenCV)  
+  - Eye detector (TensorFlow + OpenCV)
+  - YOLO object detection and recognition
   - AI agent that scrapes & summarizes multiple domains  
 
 - 📱 **Mobile Apps**:  
   - Flutter booking system with `BookingProvider` + GetX  
   - Android block puzzle game (Godot)  
-  - Hyrre (complex booking app)  
+
 
 - 🌐 **Web Apps**:  
   - **Price Pulse** – Stock price prediction app with Streamlit + SQLite auth  
