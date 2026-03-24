@@ -1,7 +1,7 @@
-# Hi, I'm Mufor Belmond 👋
+# Hi, I'm Mufor Belmond .P
 
-## 👤 About Me  
-💼 I'm a passionate Software developer with strong interest in **Data Science, AI, and Machine Learning**.  
+##  About Me  
+I'm a passionate Software developer with strong interest in **Data Science, AI, and Machine Learning**.  
 I love solving real-world problems with clean code, scalable systems, and innovative ideas.  
 Always learning, always building .  
 
