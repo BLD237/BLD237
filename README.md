@@ -1,11 +1,11 @@
 # Mufor Belmond Piannow
 
 **Backend & Mobile Engineer** — NestJS · Laravel · FastAPI · Flutter
-Building production systems at [Skye8](https://www.skye8.tech) in Bamenda, Cameroon.
+Building production systems at Skye8 in Bamenda, Cameroon.
 
-Currently open to backend, mobile, and full-stack roles.
+Currently open to backend, mobile, and full-stack roles in **Germany** and **Denmark**, and available to relocate.
 
-[Email](mailto:muforbelmond20@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mufor-belmond-a631082b8/)
+[Portfolio](https://muforbelmond.tech) · [Email](mailto:muforbelmond20@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mufor-belmond-a631082b8/)
 
 ---
 
@@ -27,7 +27,7 @@ Grouped by how much I've actually used them, rather than everything I've touched
 `TypeScript` `NestJS` `Node.js` `Dart` `Flutter` `PHP` `Laravel` `PostgreSQL` `MySQL` `MongoDB` `Git` `REST APIs`
 
 **Comfortable**
-`Python` `FastAPI` `Django` `Flask` `JavaScript` `React` `Firebase` `Docker` `Linux` `Bash`
+`Python` `FastAPI` `Django` `Flask` `JavaScript` `React` `Next.js` `Firebase` `Docker` `Linux` `Bash`
 
 **Academic / project-level**
 `TensorFlow` `PyTorch` `scikit-learn` `pandas` `NumPy` `Matplotlib` `Java` `C` `C++`
@@ -36,13 +36,17 @@ Grouped by how much I've actually used them, rather than everything I've touched
 
 ## Selected work
 
+**[muforbelmond.tech](https://muforbelmond.tech)** — my portfolio platform, and a working example of how I build.
+Next.js frontend, FastAPI backend, SQLite storage, and an admin dashboard for managing projects, writing, gallery entries, and contact messages from one place. Full-stack, self-hosted, and maintained.
+
 | Project | What it is | Stack |
 |---|---|---|
+| [BiteRush](https://github.com/BLD237/BiteRush) | Mobile product built in Dart/Flutter. | Dart, Flutter |
+| [taskplus](https://github.com/BLD237/taskplus) | Task management mobile app. | Dart, Flutter |
 | [task_api](https://github.com/BLD237/task_api) | REST API for task management — CRUD, auth, and persistence. | Python |
-| [task_api_dart](https://github.com/BLD237/task_api_dart) | The same API reimplemented in Dart, as an exercise in comparing server-side ecosystems. | Dart |
-| [image_classifier](https://github.com/BLD237/image_classifier) | Convolutional image classification model with training and evaluation notebooks. | Python, Jupyter |
+| [task_api_dart](https://github.com/BLD237/task_api_dart) | The same API reimplemented in Dart, comparing server-side ecosystems. | Dart |
+| [image_classifier](https://github.com/BLD237/image_classifier) | Convolutional image classification with training and evaluation notebooks. | Python, Jupyter |
 | [stock_price_prediction](https://github.com/BLD237/stock_price_prediction) | Time-series forecasting on historical market data. | Python, Jupyter |
-| [housing_price_prediction](https://github.com/BLD237/housing_price_prediction) | Regression modelling with feature engineering and model comparison. | Python, Jupyter |
 
 *Most of my professional work lives in private client repositories. Happy to walk through architecture and decisions on request.*
 
@@ -53,13 +57,6 @@ Grouped by how much I've actually used them, rather than everything I've touched
 - Building backend services in NestJS and TypeScript at Skye8
 - Finishing my BTech thesis in Data Science
 - Learning German (A1) ahead of a move to Europe
-
----
-
-## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=BLD237&include_all_commits=true&count_private=true&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BLD237&include_all_commits=true&count_private=true&layout=compact&hide_border=true)
 
 ---
 
