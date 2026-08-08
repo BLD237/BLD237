@@ -3,7 +3,7 @@
 **Backend & Mobile Engineer** — NestJS · Laravel · FastAPI · Flutter
 Building production systems at Skye8 in Bamenda, Cameroon.
 
-Currently open to backend, mobile, and full-stack roles in **Germany** and **Denmark**, and available to relocate.
+Currently open to backend, mobile, and full-stack roles.
 
 [Portfolio](https://muforbelmond.tech) · [Email](mailto:muforbelmond20@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mufor-belmond-a631082b8/)
 
