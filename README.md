@@ -56,7 +56,7 @@ Next.js frontend, FastAPI backend, SQLite storage, and an admin dashboard for ma
 
 - Building backend services in NestJS and TypeScript at Skye8
 - Finishing my BTech thesis in Data Science
-- Learning German (A1) ahead of a move to Europe
+- Learning German (A1).
 
 ---
 
